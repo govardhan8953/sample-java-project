@@ -54,3 +54,4 @@ edit or install anything into the project space for the initial build.
 
 # Checking
 To connect to jenkins
+Jenkins Build trigger with hook
